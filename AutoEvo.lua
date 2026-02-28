@@ -54,18 +54,18 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Weather"] = {
         ["Auto Buying"] = true,
-        ["Minimum Rod"] = "Bamboo Rod",
+        ["Minimum Rod"] = "Ghostfinn Rod",
         ["Weather List"] = {
             "Wind","Cloudy","Storm"
         },
     },
     ["Potions"] = {
         ["Auto Use"] = true,
-        ["Minimum Rod"] = "Bamboo Rod",
+        ["Minimum Rod"] = "Ghostfinn Rod",
     },
     ["Totems"] = {
         ["Auto Use"] = true,
-        ["Minimum Rod"] = "Bamboo Rod",
+        ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
             ["Luck Totem"] = 5,
         },
@@ -85,7 +85,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Second Enchant"] = false,
         ["Allowed Sacrifice"] = {},
         ["Second Enchant List"] = {},
-        ["Minimum Rod"] = "Bamboo Rod",
+        ["Minimum Rod"] = "Ghostfinn Rod",
     },
     ["Bait List"] = {
         ["Auto Buying"] = true,

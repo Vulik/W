@@ -13,7 +13,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
 
         ["Auto Accept Trade"] = true,
-        ["Auto Friend Request"] = false,
+        ["Auto Friend Request"] = true,
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,

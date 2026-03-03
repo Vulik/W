@@ -104,7 +104,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Midnight Rod",
             "Astral Rod",
             "Ares Rod",
-            "Bamboo Rod"
+            --"Bamboo Rod"
         },
         ["Location Rods"] = {
             ["Ancient Ruin"] = {"Ghostfinn Rod","Bamboo Rod"},

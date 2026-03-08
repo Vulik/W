@@ -108,10 +108,10 @@ _G.FishItConfig = _G.FishItConfig or {
             "Bamboo Rod"
         },
         ["Location Rods"] = {
-            ["Treasure Room"] = {"Ghostfinn Rod","Bamboo Rod"},
+            ["Ancient Ruin"] = {"Ghostfinn Rod","Bamboo Rod"},
             ["Tropical Grove"] = {"Starter Rod", "Luck Rod"}
         },
-        ["Endgame"] = "Ghostfinn Rod",
+        ["Endgame"] = "Bamboo",
     },
 
     ["ExtremeFpsBoost"] = false,

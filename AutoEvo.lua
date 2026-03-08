@@ -81,7 +81,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = false,
         ["Enchant List"] = {
-            "Mutation Hunter II",
+            "Leprechaun II",
         },
         ["Second Enchant"] = false,
         ["Allowed Sacrifice"] = {},
@@ -111,7 +111,7 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Ancient Ruin"] = {"Ghostfinn Rod","Bamboo Rod"},
             ["Tropical Grove"] = {"Starter Rod", "Luck Rod"}
         },
-        ["Endgame"] = "Bamboo",
+        ["Endgame"] = "Bamboo Rod",
     },
 
     ["ExtremeFpsBoost"] = false,

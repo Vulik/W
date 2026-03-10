@@ -49,7 +49,10 @@ _G.FishItConfig = _G.FishItConfig or {
     ["WebHook"] = {
         ["Link Webhook"] = "https://discord.com/api/webhooks/1033311451890327564/Qi0RikL0soMlMYb43B7BmFb2plDB7TQuA9fYJHkDpJIOf7KCNWwk_ENlgFk3fx0a8LcD",
         ["Auto Sending"] = true,
-        ["Category"] = {"Secret",
+        ["Category"] = {
+            "Secret",
+            {Name = "Ruby", Variant = "Gemstone"},
+        },
 
         ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1033311451890327564/Qi0RikL0soMlMYb43B7BmFb2plDB7TQuA9fYJHkDpJIOf7KCNWwk_ENlgFk3fx0a8LcD",
     },
@@ -68,7 +71,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Use"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
-            ["Luck Totem"] = 10,
+            ["Mutation Totem"] = 10,
         },
     },
     ["Event"] = {
@@ -81,7 +84,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = false,
         ["Enchant List"] = {
-            "Leprechaun II",
+            "Cursed I",
+            "Mutation Hunter II",
         },
         ["Second Enchant"] = false,
         ["Allowed Sacrifice"] = {},
@@ -105,10 +109,9 @@ _G.FishItConfig = _G.FishItConfig or {
             "Midnight Rod",
             "Astral Rod",
             "Ares Rod",
-            "Bamboo Rod"
         },
         ["Location Rods"] = {
-            ["Ancient Ruin"] = {"Ghostfinn Rod","Bamboo Rod"},
+            ["Treasure Room"] = {"Ghostfinn Rod","Bamboo Rod"},
             ["Tropical Grove"] = {"Starter Rod", "Luck Rod"}
         },
         ["Endgame"] = "Bamboo Rod",

@@ -40,7 +40,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod 2"] = false,
         ["Auto Diamond Rod"] = false,
-        ["Unlock Ancient Ruin"] = true,
+        ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {},
         ["FARM_LOC_SECRET_SACRIFICE"] = "",
 
@@ -49,7 +49,7 @@ _G.FishItConfig = _G.FishItConfig or {
     ["WebHook"] = {
         ["Link Webhook"] = "https://discord.com/api/webhooks/1033311451890327564/Qi0RikL0soMlMYb43B7BmFb2plDB7TQuA9fYJHkDpJIOf7KCNWwk_ENlgFk3fx0a8LcD",
         ["Auto Sending"] = true,
-        ["Category"] = {"Secret"},
+        ["Category"] = {"Secret",
 
         ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1033311451890327564/Qi0RikL0soMlMYb43B7BmFb2plDB7TQuA9fYJHkDpJIOf7KCNWwk_ENlgFk3fx0a8LcD",
     },

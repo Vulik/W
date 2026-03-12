@@ -40,7 +40,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod 2"] = false,
         ["Auto Diamond Rod"] = false,
-        ["Unlock Ancient Ruin"] = true,
+        ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {},
         ["FARM_LOC_SECRET_SACRIFICE"] = "",
 
@@ -74,7 +74,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Use"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Buy List"] = {
-            ["Luck Totem"] = 10,
+            ["Mutation Totem"] = 10,
         },
     },
     ["Event"] = {
@@ -87,7 +87,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = false,
         ["Enchant List"] = {
-            "Leprechaun II",
+            "Mutation Hunter II",
         },
         ["Second Enchant"] = false,
         ["Allowed Sacrifice"] = {},
@@ -111,10 +111,9 @@ _G.FishItConfig = _G.FishItConfig or {
             "Midnight Rod",
             "Astral Rod",
             "Ares Rod",
-            "Bamboo Rod"
         },
         ["Location Rods"] = {
-            ["Ancient Ruin"] = {"Ghostfinn Rod","Bamboo Rod"},
+            ["Treasure Room"] = {"Ghostfinn Rod","Bamboo Rod"},
             ["Tropical Grove"] = {"Starter Rod", "Luck Rod"}
         },
         ["Endgame"] = "Bamboo Rod",
